@@ -1,0 +1,34 @@
+.cart-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .cart-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .cart-table th, .cart-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .cart-table th {
+    background-color: #f4f4f4;
+  }
+  
+  .clear-cart-button {
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .clear-cart-button:hover {
+    background-color: #c9302c;
+  }
+  
